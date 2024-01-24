@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: Arial, Tahoma, Serif;
+    background-color: #7496DF;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 1in; /* Set padding to 1 inch on both ends */
+    background: #cfd8dc;
+}
+
+.nav ul {
+    display: flex;
+    list-style: none;
+}
+
+.nav li {
+    padding-left: 1rem;
+}
+
+.text1{
+    margin-left: 300px;
+    margin-top: 150px;
+    color:antiquewhite;
+    font-size: 100px;
+    font-style: Serif;
+}
+
+.niggas{
+    margin-left: 200px;
+    height: 50px;
+    width: 50px;
+}
+
+
